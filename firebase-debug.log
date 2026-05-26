@@ -1,0 +1,74 @@
+[debug] [2026-05-17T20:30:15.017Z] ----------------------------------------------------------------------
+[debug] [2026-05-17T20:30:15.021Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login:list
+[debug] [2026-05-17T20:30:15.022Z] CLI Version:   15.16.0
+[debug] [2026-05-17T20:30:15.022Z] Platform:      win32
+[debug] [2026-05-17T20:30:15.022Z] Node Version:  v24.13.0
+[debug] [2026-05-17T20:30:15.022Z] Time:          Sun May 17 2026 23:30:15 GMT+0300 (East Africa Time)
+[debug] [2026-05-17T20:30:15.022Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-05-17T20:30:15.025Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] Logged in as cleanpagedatabase@gmail.com
+[debug] [2026-05-17T20:30:15.174Z] ----------------------------------------------------------------------
+[debug] [2026-05-17T20:30:15.177Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js projects:list
+[debug] [2026-05-17T20:30:15.178Z] CLI Version:   15.16.0
+[debug] [2026-05-17T20:30:15.178Z] Platform:      win32
+[debug] [2026-05-17T20:30:15.178Z] Node Version:  v24.13.0
+[debug] [2026-05-17T20:30:15.178Z] Time:          Sun May 17 2026 23:30:15 GMT+0300 (East Africa Time)
+[debug] [2026-05-17T20:30:15.178Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-05-17T20:30:15.184Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2026-05-17T20:30:15.533Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-05-17T20:30:15.534Z] > authorizing via signed-in user (cleanpagedatabase@gmail.com)
+[debug] [2026-05-17T20:30:15.538Z] Checked if tokens are valid: false, expires at: 1778447224271
+[debug] [2026-05-17T20:30:15.538Z] Checked if tokens are valid: false, expires at: 1778447224271
+[debug] [2026-05-17T20:30:15.538Z] > refreshing access token with scopes: []
+[debug] [2026-05-17T20:30:15.541Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-05-17T20:30:15.541Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-05-17T20:30:15.877Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-05-17T20:30:15.878Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-05-17T20:30:15.896Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2026-05-17T20:30:16.225Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2026-05-17T20:30:16.225Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2026-05-17T20:30:16.593Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2026-05-17T20:30:16.593Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] ┌──────────────────────┬─────────────────┬────────────────┬──────────────────────┐
+│ Project Display Name │ Project ID      │ Project Number │ Resource Location ID │
+├──────────────────────┼─────────────────┼────────────────┼──────────────────────┤
+│ Cleanpage            │ cleanpage-6fa02 │ 254596166930   │ [Not specified]      │
+└──────────────────────┴─────────────────┴────────────────┴──────────────────────┘
+[info] 
+[info] 1 project(s) total.
+[debug] [2026-05-17T20:30:47.465Z] ----------------------------------------------------------------------
+[debug] [2026-05-17T20:30:47.467Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy --only database --project biling-saas
+[debug] [2026-05-17T20:30:47.468Z] CLI Version:   15.16.0
+[debug] [2026-05-17T20:30:47.468Z] Platform:      win32
+[debug] [2026-05-17T20:30:47.468Z] Node Version:  v24.13.0
+[debug] [2026-05-17T20:30:47.468Z] Time:          Sun May 17 2026 23:30:47 GMT+0300 (East Africa Time)
+[debug] [2026-05-17T20:30:47.468Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-05-17T20:30:52.246Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-05-17T20:30:52.248Z] > authorizing via signed-in user (cleanpagedatabase@gmail.com)
+[debug] [2026-05-17T20:30:52.248Z] [iam] checking project biling-saas for permissions ["firebase.projects.get","firebasedatabase.instances.update"]
+[debug] [2026-05-17T20:30:52.251Z] Checked if tokens are valid: true, expires at: 1779053414879
+[debug] [2026-05-17T20:30:52.252Z] Checked if tokens are valid: true, expires at: 1779053414879
+[debug] [2026-05-17T20:30:52.254Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/biling-saas:testIamPermissions [none]
+[debug] [2026-05-17T20:30:52.254Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/biling-saas:testIamPermissions  x-goog-user-project=biling-saas
+[debug] [2026-05-17T20:30:52.255Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/biling-saas:testIamPermissions {"permissions":["firebase.projects.get","firebasedatabase.instances.update"]}
+[debug] [2026-05-17T20:30:54.017Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/biling-saas:testIamPermissions 403
+[debug] [2026-05-17T20:30:54.017Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/biling-saas:testIamPermissions {"error":{"code":403,"message":"Caller does not have required permission to use project biling-saas. Grant the caller the roles/serviceusage.serviceUsageConsumer role, or a custom role with the serviceusage.services.use permission, by visiting https://console.developers.google.com/iam-admin/iam?project=biling-saas and then retry. Propagation of the new permission may take a few minutes.","status":"PERMISSION_DENIED","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"USER_PROJECT_DENIED","domain":"googleapis.com","metadata":{"consoleUrl":"https://console.developers.google.com/iam-admin/iam?project=biling-saas","containerInfo":"biling-saas","service":"cloudresourcemanager.googleapis.com","consumer":"projects/biling-saas"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"Caller does not have required permission to use project biling-saas. Grant the caller the roles/serviceusage.serviceUsageConsumer role, or a custom role with the serviceusage.services.use permission, by visiting https://console.developers.google.com/iam-admin/iam?project=biling-saas and then retry. Propagation of the new permission may take a few minutes."},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Google developer console IAM admin","url":"https://console.developers.google.com/iam-admin/iam?project=biling-saas"}]}]}}
+[debug] [2026-05-17T20:30:54.019Z] [iam] error while checking permissions, command may fail: Request to https://cloudresourcemanager.googleapis.com/v1/projects/biling-saas:testIamPermissions had HTTP Error: 403, Caller does not have required permission to use project biling-saas. Grant the caller the roles/serviceusage.serviceUsageConsumer role, or a custom role with the serviceusage.services.use permission, by visiting https://console.developers.google.com/iam-admin/iam?project=biling-saas and then retry. Propagation of the new permission may take a few minutes.
+[debug] [2026-05-17T20:30:54.020Z] Checked if tokens are valid: true, expires at: 1779053414879
+[debug] [2026-05-17T20:30:54.020Z] Checked if tokens are valid: true, expires at: 1779053414879
+[debug] [2026-05-17T20:30:54.021Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/biling-saas [none]
+[debug] [2026-05-17T20:30:54.623Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/biling-saas 403
+[debug] [2026-05-17T20:30:54.624Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/biling-saas {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
+[debug] [2026-05-17T20:30:54.624Z] Request to https://firebase.googleapis.com/v1beta1/projects/biling-saas had HTTP Error: 403, The caller does not have permission
+[debug] [2026-05-17T20:30:54.913Z] FirebaseError: Failed to get Firebase project biling-saas. Please make sure the project exists and your account has permission to access it.
+    at getFirebaseProject (C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\management\projects.js:384:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async getDefaultDatabaseInstance (C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\getDefaultDatabaseInstance.js:6:28)
+    at async requireDatabaseInstance (C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\requireDatabaseInstance.js:15:20)
+    at async Object.fn (C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\commands\deploy.js:116:9)
+    at async C:\Users\Ezekiel Kirui\AppData\Roaming\npm\node_modules\firebase-tools\lib\command.js:271:17
+[error] 
+[error] Error: Failed to get details for project: biling-saas.

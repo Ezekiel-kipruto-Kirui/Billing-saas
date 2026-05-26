@@ -1,0 +1,388 @@
+◇ injected env (17) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+◇ injected env (0) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+Billing SaaS running on port 3000
+[2026-05-21T16:39:22.357Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:39:22.461Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:39:22.885Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-21T16:39:24.071Z] INFO MikroTik connected {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:39:51.020Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-21T16:39:54.230Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:39:54.246Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:39:54.405Z] INFO MikroTik connected {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:39:54.535Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-21T16:40:21.693Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:40:21.694Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:40:21.823Z] INFO MikroTik connected {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-21T16:40:21.987Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-21T16:40:55.958Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+Running expiry check across all tenants...
+Running expiry check across all tenants...
+[2026-05-23T06:55:46.999Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T06:55:47.060Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T06:55:47.284Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T06:56:28.545Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T06:56:31.270Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T06:56:31.271Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T06:56:31.553Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T07:41:57.700Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:41:57.711Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:41:58.006Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T07:44:51.078Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:44:51.084Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:44:51.375Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T07:45:38.113Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:45:38.115Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:45:38.421Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T07:54:58.108Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:54:58.116Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T07:54:58.398Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:01:10.360Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:01:12.084Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T08:01:12.086Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T08:01:12.376Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:03:28.975Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:04:00.741Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T08:04:00.747Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T08:04:01.016Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:04:03.882Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:12:17.839Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:12:18.700Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T08:12:18.703Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T08:12:18.973Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:12:44.958Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T08:20:30.741Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T08:21:09.316Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T12:00:18.416Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T12:00:20.092Z] INFO MikroTik PPP profile list start {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T12:00:20.094Z] INFO MikroTik connect attempt {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***'
+}
+[2026-05-23T12:00:20.102Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T12:19:03.087Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T12:21:05.165Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T12:21:08.328Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T12:23:48.721Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}
+[2026-05-23T12:27:42.982Z] INFO Packages list returned {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  count: 1,
+  package_names: [ 'basic' ]
+}

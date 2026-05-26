@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    min-width: 320px;
+    background: #f8fafc;
+    color: #0f172a;
+    font-family: Roboto, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  button,
+  input,
+  select {
+    font: inherit;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex h-9 items-center justify-center gap-2 rounded-md bg-app-accent px-3 text-sm font-medium text-white transition hover:bg-app-accentDark disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .btn-danger {
+    @apply inline-flex h-9 items-center justify-center gap-2 rounded-md bg-red-600 px-3 text-sm font-medium text-white transition hover:bg-red-700 disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .btn-secondary {
+    @apply inline-flex h-9 items-center justify-center gap-2 rounded-md border border-slate-200 bg-white px-3 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-slate-50 disabled:cursor-not-allowed disabled:opacity-60;
+  }
+
+  .form-label {
+    @apply block text-[11px] font-medium uppercase tracking-wide text-slate-500;
+  }
+
+  .form-input {
+    @apply mt-1 h-9 w-full rounded-md border border-slate-300 bg-white px-3 text-sm text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-app-accent focus:ring-2 focus:ring-blue-100;
+  }
+
+  .form-error {
+    @apply mt-1 text-xs font-medium text-red-600;
+  }
+
+  .table-shell {
+    @apply overflow-hidden rounded-lg border border-slate-200 bg-white;
+  }
+
+  .table-head {
+    @apply bg-slate-50 text-left text-[11px] font-medium uppercase tracking-wide text-slate-500;
+  }
+
+  .table-cell {
+    @apply whitespace-nowrap px-4 py-3 text-sm font-normal text-slate-700;
+  }
+
+  .page-title {
+    @apply text-[24px] font-medium leading-8 text-slate-950;
+  }
+
+  .page-subtitle {
+    @apply mt-1 max-w-2xl text-base font-medium leading-6 text-slate-500;
+  }
+
+  .surface-card {
+    @apply rounded-lg border border-slate-200 bg-white;
+  }
+}

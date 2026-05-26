@@ -1,0 +1,84 @@
+import { useState } from 'react';
+import toast from 'react-hot-toast';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import api from '../api/axios';
+import { useAuth } from '../context/AuthContext';
+
+function getMessage(error) {
+  return error.response?.data?.message || 'Something went wrong. Please try again.';
+}
+
+export default function Login() {
+  const navigate = useNavigate();
+  const location = useLocation();
+  const { login } = useAuth();
+  const [loading, setLoading] = useState(false);
+  const [form, setForm] = useState({ email: '', password: '' });
+  const [errors, setErrors] = useState({});
+
+  const update = (event) => {
+    setForm((current) => ({ ...current, [event.target.name]: event.target.value }));
+    setErrors((current) => ({ ...current, [event.target.name]: '' }));
+  };
+
+  const validate = () => {
+    const nextErrors = {};
+    if (!form.email.trim()) nextErrors.email = 'Email is required';
+    if (!form.password) nextErrors.password = 'Password is required';
+    setErrors(nextErrors);
+    return Object.keys(nextErrors).length === 0;
+  };
+
+  const submit = async (event) => {
+    event.preventDefault();
+    if (!validate()) return;
+
+    setLoading(true);
+    try {
+      const { data } = await api.post('/auth/login', form);
+      login(data.token, data.tenant);
+      toast.success('Welcome back');
+      navigate(location.state?.from?.pathname || '/dashboard', { replace: true });
+    } catch (error) {
+      toast.error(getMessage(error));
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  return (
+    <main className="flex min-h-screen items-center justify-center bg-slate-100 px-4 py-10">
+      <section className="w-full max-w-md rounded-lg bg-white p-8 shadow-soft ring-1 ring-slate-200">
+        <div className="mb-8">
+          <p className="text-sm font-semibold uppercase tracking-wide text-blue-600">Billing SaaS</p>
+          <h1 className="mt-2 text-2xl font-bold text-slate-900">Sign in to your tenant account</h1>
+        </div>
+
+        <form className="space-y-5" onSubmit={submit}>
+          <div>
+            <label className="form-label" htmlFor="email">Email</label>
+            <input id="email" name="email" type="email" className="form-input" value={form.email} onChange={update} />
+            {errors.email && <p className="form-error">{errors.email}</p>}
+          </div>
+
+          <div>
+            <label className="form-label" htmlFor="password">Password</label>
+            <input id="password" name="password" type="password" className="form-input" value={form.password} onChange={update} />
+            {errors.password && <p className="form-error">{errors.password}</p>}
+          </div>
+
+          <button type="submit" className="btn-primary w-full" disabled={loading}>
+            {loading ? 'Signing in...' : 'Login'}
+          </button>
+        </form>
+
+        <p className="mt-6 text-center text-sm text-slate-600">
+          New tenant?{' '}
+          <Link className="font-semibold text-blue-600 hover:text-blue-700" to="/register">
+            Create an account
+          </Link>
+        </p>
+      </section>
+    </main>
+  );
+}

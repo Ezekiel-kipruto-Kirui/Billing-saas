@@ -1,0 +1,541 @@
+[2026-05-21T19:23:52.778Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu May 21 2026 22:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-21T19:23:54.640Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu May 21 2026 22:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-21T23:47:11.300Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-21T23:47:12.525Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-21T23:47:13.056Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-21T23:47:13.682Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-21T23:47:13.835Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-21T23:47:14.235Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:47.162Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:47.827Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 02:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:49.969Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:50.620Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:51.993Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:53.632Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:55.314Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:55.509Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:55.868Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:59.387Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:59.696Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:40:59.816Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:00.446Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:00.884Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 03:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:00.957Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:01.192Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:01.362Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:01.553Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:01.684Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:01.892Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:02.139Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:02.212Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:02.526Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:02.670Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:02.882Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:03.032Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 04:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:03.331Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:03.781Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:04.038Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:04.527Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:04.910Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:05.256Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:05.382Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:05.659Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:05.762Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:05.935Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.074Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.204Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 05:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.380Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.498Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.628Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.716Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.815Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.836Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:06.880Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:07.074Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:07.242Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:08.318Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:09.216Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:09.682Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 06:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:09.794Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:10.187Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:10.250Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:10.471Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:11.163Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:11.476Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:11.837Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:12.267Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T04:41:12.349Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 07:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T05:50:26.605Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 08:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T05:50:28.429Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 08:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T05:50:28.574Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 08:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T10:32:46.826Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 13:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T10:32:47.063Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 13:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T10:32:47.081Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 13:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T10:32:47.091Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 13:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T10:32:47.102Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 13:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T10:32:47.125Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 13:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T11:00:01.617Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 14:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T11:10:03.586Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 14:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:24.761Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 16:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:31.006Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 16:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:31.096Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 16:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:31.128Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 16:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:31.163Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 16:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:31.184Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 16:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:31.251Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 16:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:32.185Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 17:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:32.207Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 17:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:32.255Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 17:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:32.323Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 17:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T14:22:32.349Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 17:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T15:59:06.887Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:07.555Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:09.025Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:10.733Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:12.736Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:14.330Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:17.650Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:21.013Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:26.670Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:31.707Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:44.189Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T15:59:56.792Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:00:18.965Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:00:45.077Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:01:18.326Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:01:57.981Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:02:55.528Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:03:02.841Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:03:43.674Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:04:16.414Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:04:27.195Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:06:45.608Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:06:50.265Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:11:22.880Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T16:15:10.697Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T17:54:20.516Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 20:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T17:54:20.833Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 20:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T17:54:20.857Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 20:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T17:54:20.869Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 20:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T17:54:20.883Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 20:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T17:54:21.208Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 20:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T18:24:21.948Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 20:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T18:24:23.922Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 21:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T18:24:23.935Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 21:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T18:24:23.951Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 21:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T18:24:23.962Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 21:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T18:24:23.972Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 21:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T19:24:43.566Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 21:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T19:24:43.581Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T19:24:43.589Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T19:24:43.597Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T19:24:43.604Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T19:24:43.616Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T19:24:46.056Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T19:24:46.691Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T19:24:47.412Z]  @firebase/database: FIREBASE WARNING: {"code":"app/invalid-credential","message":"Credential implementation provided to initializeApp() via the \"credential\" property failed to fetch a valid Google OAuth2 access token with the following error: \"request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com\"."} 
+[2026-05-22T20:04:22.764Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T20:04:22.859Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T20:04:22.910Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T20:04:22.927Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T20:04:22.940Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T20:04:22.970Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T20:04:22.987Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 22:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T20:04:23.008Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri May 22 2026 23:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.566Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 00:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.583Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 00:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.590Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 00:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.599Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 00:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.607Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.614Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.621Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.628Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.651Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.659Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.665Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-22T22:39:22.670Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:52.244Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.041Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.058Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.072Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 01:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.088Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.102Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.111Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.129Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.139Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.145Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.157Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.190Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.200Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.210Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.224Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.233Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 02:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.246Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.256Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.267Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.279Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.289Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.296Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.305Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.313Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.323Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.331Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.350Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.359Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 03:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.369Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.378Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.387Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.395Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.402Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.409Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.416Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.423Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.430Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.438Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.451Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.464Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 04:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.488Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.515Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.542Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.551Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.561Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.572Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.583Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.607Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.620Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.630Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.636Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.645Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 05:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.651Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.659Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.669Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.678Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.687Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.696Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.704Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.713Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.720Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.729Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.737Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.744Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 06:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.756Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.763Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.772Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.780Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.794Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.802Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.809Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.817Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.848Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.966Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:53.994Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.013Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 07:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.229Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.285Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.395Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.429Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.467Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:20:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.498Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:25:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.513Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:30:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.535Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:35:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.568Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.599Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:45:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.615Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:50:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.634Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 08:55:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.653Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 09:00:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.668Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 09:05:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.705Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 09:10:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:16:54.715Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 09:15:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2026-05-23T06:56:08.083Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T06:56:08.092Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T06:56:52.279Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T06:56:52.280Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:42:18.755Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:42:18.766Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:45:12.103Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:45:12.109Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:45:59.124Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:45:59.125Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:55:19.217Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T07:55:19.467Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T08:01:33.113Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T08:01:33.119Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T08:04:21.999Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T08:04:22.021Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T08:12:39.736Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T08:12:39.747Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T08:20:51.790Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+RosException
+    at Connector.onError (C:\programing\Express\billing-saas\node_modules\node-routeros\dist\connector\Connector.js:175:15)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[2026-05-23T08:21:30.322Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+RosException
+    at Connector.onError (C:\programing\Express\billing-saas\node_modules\node-routeros\dist\connector\Connector.js:175:15)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[2026-05-23T12:00:41.183Z] ERROR MikroTik connection failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  business_name: 'Clean Page',
+  mikrotik_host: '192.168.56.2',
+  mikrotik_port: 8728,
+  mikrotik_user: 'admin',
+  mikrotik_pass: '***redacted***',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T12:00:41.191Z] ERROR Router PPP profile list failed {
+  tenant_id: '-OszxoUbm3pef2seLaHf',
+  error: 'RosException',
+  stack: 'RosException\n' +
+    '    at Connector.onError (C:\\programing\\Express\\billing-saas\\node_modules\\node-routeros\\dist\\connector\\Connector.js:175:15)\n' +
+    '    at Socket.emit (node:events:508:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:170:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)'
+}
+[2026-05-23T12:40:03.638Z] [PID: 5820] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat May 23 2026 15:40:00 GMT+0300 (East Africa Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
