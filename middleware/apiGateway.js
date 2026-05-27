@@ -8,7 +8,7 @@ const DEFAULT_DEV_ORIGINS = [
     'http://127.0.0.1:3000',
     'http://localhost:5173',
     'http://127.0.0.1:5173',
-    'https://billing-saas-430b.onrender.com/'
+    'https://billing-saas-430b.onrender.com'
 ]
 
 function getAllowedOrigins() {
@@ -32,13 +32,13 @@ const securityHeaders = helmet({
             defaultSrc: ["'self'"],
             baseUri: ["'self'"],
             connectSrc: ["'self'", ...getAllowedOrigins()],
-            fontSrc: ["'self'", 'data:'],
+            fontSrc: ["'self'", 'data:', 'https://fonts.gstatic.com'],
             formAction: ["'self'"],
             frameAncestors: ["'none'"],
             imgSrc: ["'self'", 'data:', 'https:'],
             objectSrc: ["'none'"],
             scriptSrc: ["'self'"],
-            styleSrc: ["'self'", "'unsafe-inline'"],
+            styleSrc: ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
             upgradeInsecureRequests: process.env.NODE_ENV === 'production' ? [] : null
         }
     },
