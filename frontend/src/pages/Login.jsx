@@ -5,7 +5,7 @@ import api from '../api/axios';
 import { useAuth } from '../context/AuthContext';
 
 function getMessage(error) {
-  return error.response?.data?.message || 'Something went wrong. Please try again.';
+  return error.response?.data?.message || error.message || 'Something went wrong. Please try again.';
 }
 
 export default function Login() {

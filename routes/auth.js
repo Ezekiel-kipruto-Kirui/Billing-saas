@@ -4,6 +4,9 @@ const db = require('../config/firebase')
 const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
 const { getCallbackUrl } = require('../mpesa/daraja')
+const { withTimeout } = require('../utils/async')
+
+const DB_TIMEOUT_MS = parseInt(process.env.DB_TIMEOUT_MS, 10) || 10000
 
 // REGISTER new tenant
 router.post('/register', async (req, res) => {
@@ -85,12 +88,20 @@ router.post('/login', async (req, res) => {
     const { email, password } = req.body
 
     try {
+        if (!email || !password) {
+            return res.status(400).json({ message: 'Email and password are required' })
+        }
+
         const normalizedEmail = email.toLowerCase().trim()
-        const snapshot = await db.realtime.ref('tenants')
-            .orderByChild('email')
-            .equalTo(normalizedEmail)
-            .limitToFirst(1)
-            .get()
+        const snapshot = await withTimeout(
+            db.realtime.ref('tenants')
+                .orderByChild('email')
+                .equalTo(normalizedEmail)
+                .limitToFirst(1)
+                .get(),
+            DB_TIMEOUT_MS,
+            'Database lookup timed out while signing in'
+        )
 
         if (!snapshot.exists()) {
             return res.status(404).json({ message: 'Business not found' })
@@ -125,7 +136,7 @@ router.post('/login', async (req, res) => {
         })
 
     } catch (err) {
-        res.status(500).json({ message: err.message })
+        res.status(err.statusCode || 500).json({ message: err.message })
     }
 })
 

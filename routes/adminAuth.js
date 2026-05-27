@@ -4,8 +4,10 @@ const jwt = require('jsonwebtoken')
 const db = require('../config/firebase')
 const { adminLoginLimiter } = require('../middleware/rateLimiter')
 const { writeAuditLog } = require('../utils/auditLog')
+const { withTimeout } = require('../utils/async')
 
 const router = express.Router()
+const DB_TIMEOUT_MS = parseInt(process.env.DB_TIMEOUT_MS, 10) || 10000
 
 router.post('/login', adminLoginLimiter, async (req, res) => {
     const { email, password } = req.body
@@ -16,12 +18,16 @@ router.post('/login', adminLoginLimiter, async (req, res) => {
 
     try {
         const normalizedEmail = email.toLowerCase().trim()
-        const snap = await db.realtime
-            .ref('admins')
-            .orderByChild('email')
-            .equalTo(normalizedEmail)
-            .limitToFirst(1)
-            .get()
+        const snap = await withTimeout(
+            db.realtime
+                .ref('admins')
+                .orderByChild('email')
+                .equalTo(normalizedEmail)
+                .limitToFirst(1)
+                .get(),
+            DB_TIMEOUT_MS,
+            'Database lookup timed out while signing in'
+        )
 
         if (!snap.exists()) {
             await bcrypt.hash('dummy-password-for-timing', 12)
@@ -82,7 +88,7 @@ router.post('/login', adminLoginLimiter, async (req, res) => {
         })
     } catch (err) {
         console.error('Admin login error:', err)
-        res.status(500).json({ error: 'Login failed' })
+        res.status(err.statusCode || 500).json({ error: err.statusCode ? err.message : 'Login failed' })
     }
 })
 

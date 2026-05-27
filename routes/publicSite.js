@@ -1,7 +1,9 @@
 const express = require('express')
 const db = require('../config/firebase')
+const { withTimeout } = require('../utils/async')
 
 const router = express.Router()
+const DB_TIMEOUT_MS = parseInt(process.env.DB_TIMEOUT_MS, 10) || 10000
 
 const defaultContent = {
     brand_name: 'Billing SaaS',
@@ -18,10 +20,14 @@ const defaultContent = {
 
 router.get('/site', async (req, res) => {
     try {
-        const snap = await db.realtime.ref('site_settings').get()
+        const snap = await withTimeout(
+            db.realtime.ref('site_settings').get(),
+            DB_TIMEOUT_MS,
+            'Database lookup timed out while loading site settings'
+        )
         res.json({ ...defaultContent, ...(snap.val() || {}) })
     } catch (err) {
-        res.status(500).json({ message: err.message })
+        res.status(err.statusCode || 500).json({ message: err.message })
     }
 })
 

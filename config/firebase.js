@@ -17,7 +17,14 @@ const serviceAccount = require(serviceAccountPath)
 const databaseURL = (process.env.FIREBASE_DATABASE_URL ||
     (serviceAccount.project_id
         ? `https://${serviceAccount.project_id}-default-rtdb.firebaseio.com`
-        : undefined))?.replace(/,$/, '')
+        : undefined))
+    ?.trim()
+    .replace(/^['"]|['"]$/g, '')
+    .replace(/[,\s/]+$/, '')
+
+if (!databaseURL) {
+    throw new Error('FIREBASE_DATABASE_URL is required')
+}
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),

@@ -33,7 +33,7 @@ export default function AdminLogin() {
       toast.success('Admin session started');
       navigate(location.state?.from?.pathname || '/admin/dashboard', { replace: true });
     } catch (error) {
-      toast.error(error.response?.data?.error || 'Admin login failed');
+      toast.error(error.response?.data?.error || error.response?.data?.message || error.message || 'Admin login failed');
     } finally {
       setLoading(false);
     }
