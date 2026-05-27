@@ -3,17 +3,32 @@ const path = require('path')
 const admin = require('firebase-admin')
 require('dotenv').config({ path: path.join(__dirname, '..', '.env') })
 
-const rootServiceAccount = path.join(__dirname, '..', 'serviceAccount.json')
-const configServiceAccount = fs.readdirSync(__dirname)
-    .find((file) => file.endsWith('.json') && file.includes('firebase-adminsdk'))
-const serviceAccountPath = fs.existsSync(rootServiceAccount)
-    ? rootServiceAccount
-    : path.join(__dirname, configServiceAccount)
+function loadServiceAccount() {
+    if (process.env.FIREBASE_SERVICE_ACCOUNT_JSON) {
+        const parsed = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON)
+        if (parsed.private_key) {
+            parsed.private_key = parsed.private_key.replace(/\\n/g, '\n')
+        }
+        return parsed
+    }
 
-if (!fs.existsSync(serviceAccountPath)) {
-    throw new Error('Firebase service account JSON not found')
+    const rootServiceAccount = path.join(__dirname, '..', 'serviceAccount.json')
+    const configServiceAccount = fs.readdirSync(__dirname)
+        .find((file) => file.endsWith('.json') && file.includes('firebase-adminsdk'))
+    const serviceAccountPath = fs.existsSync(rootServiceAccount)
+        ? rootServiceAccount
+        : configServiceAccount
+            ? path.join(__dirname, configServiceAccount)
+            : null
+
+    if (!serviceAccountPath || !fs.existsSync(serviceAccountPath)) {
+        throw new Error('Firebase service account JSON not found')
+    }
+
+    return require(serviceAccountPath)
 }
-const serviceAccount = require(serviceAccountPath)
+
+const serviceAccount = loadServiceAccount()
 const databaseURL = (process.env.FIREBASE_DATABASE_URL ||
     (serviceAccount.project_id
         ? `https://${serviceAccount.project_id}-default-rtdb.firebaseio.com`

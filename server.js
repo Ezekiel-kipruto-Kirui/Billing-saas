@@ -3,8 +3,6 @@ const bodyParser = require('body-parser')
 const path = require('path')
 require('dotenv').config()
 const { logError } = require('./utils/logger')
-require('./cron/expiary')
-require('./cron/connectionWatchdog')
 
 const authRoutes = require('./routes/auth')
 const customerRoutes = require('./routes/customers')
@@ -34,6 +32,12 @@ const {
 } = require('./middleware/rateLimiter')
 
 const app = express()
+const enableCron = process.env.ENABLE_CRON === 'true'
+
+if (enableCron) {
+    require('./cron/expiary')
+    require('./cron/connectionWatchdog')
+}
 
 process.on('unhandledRejection', (err) => {
     logError('Unhandled promise rejection', err)
@@ -57,6 +61,14 @@ app.use(['/api/public/:tenantId/pay', '/api/public/:tenantId/redeem'], publicPay
 app.use('/api', sanitizeRequest)
 app.use('/api', blockSuspiciousRequests)
 
+app.get('/api/health', (req, res) => {
+    res.json({
+        ok: true,
+        service: 'billing-saas',
+        cronEnabled: enableCron
+    })
+})
+
 // public routes
 app.use('/api/auth', authRoutes)
 app.use('/api/mpesa', mpesaRoutes)
@@ -79,7 +91,7 @@ app.get(/^(?!\/api).*/, (req, res) => {
     res.sendFile(path.join(frontendDist, 'index.html'))
 })
 
-const port = process.env.PORT
+const port = process.env.PORT || 5000
 app.listen(port, () => {
     console.log(`Billing SaaS running on port ${port}`)
 })
