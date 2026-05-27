@@ -13,11 +13,15 @@ function loadServiceAccount() {
     }
 
     const rootServiceAccount = path.join(__dirname, '..', 'serviceAccount.json')
+    const rootFirebaseServiceAccount = fs.readdirSync(path.join(__dirname, '..'))
+        .find((file) => file.endsWith('.json') && file.includes('firebase-adminsdk'))
     const configServiceAccount = fs.readdirSync(__dirname)
         .find((file) => file.endsWith('.json') && file.includes('firebase-adminsdk'))
     const serviceAccountPath = fs.existsSync(rootServiceAccount)
         ? rootServiceAccount
-        : configServiceAccount
+        : rootFirebaseServiceAccount
+            ? path.join(__dirname, '..', rootFirebaseServiceAccount)
+            : configServiceAccount
             ? path.join(__dirname, configServiceAccount)
             : null
 

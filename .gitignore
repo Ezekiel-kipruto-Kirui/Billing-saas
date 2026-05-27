@@ -1,5 +1,6 @@
 .env
 serviceAccount.json
+*firebase-adminsdk*.json
 config/*firebase-adminsdk*.json
 node_modules/
 frontend/node_modules/
